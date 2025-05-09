@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/standup-timer/static/css/main.e63b1432.css",
+    "main.js": "/standup-timer/static/js/main.9fd0fe01.js",
+    "static/js/453.ed3810f9.chunk.js": "/standup-timer/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/standup-timer/index.html",
+    "main.e63b1432.css.map": "/standup-timer/static/css/main.e63b1432.css.map",
+    "main.9fd0fe01.js.map": "/standup-timer/static/js/main.9fd0fe01.js.map",
+    "453.ed3810f9.chunk.js.map": "/standup-timer/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e63b1432.css",
+    "static/js/main.9fd0fe01.js"
+  ]
+}
