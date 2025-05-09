@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Standup App",
+  "name": "An app for daily standup time tracking",
   "icons": [
     {
       "src": "favicon.ico",
