@@ -11,7 +11,7 @@ const MicrophoneIcon = FaMicrophone as React.ComponentType<{ color?: string }>;
 const App: React.FC = () => {
   const [name, setName] = useState("");
   const defaultPeople: Person[] =[{name:'Pavan'},{name:'Viru'},{name:'Srini'},{name:'Shweta'},{name:'Zainab'},
-    {name:'Sowmya'},{name:'Aidan'},{name:'Jesse'},{name:'Deepanshu'}];
+    {name:'Aidan'},{name:'Jesse'},{name:'Deepanshu'}];
   
   const shuffleArray = (array: Person[]) => {
     return [...array].sort(() => Math.random() - 0.5);
